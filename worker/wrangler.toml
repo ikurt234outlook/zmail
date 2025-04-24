@@ -10,7 +10,7 @@ compatibility_date = "2025-03-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "zmail"
-database_id = "4527211d-b88b-4f12-b374-444ed4ab416d"  # 需要替换为您的实际数据库 ID
+database_id = "75a11325-4554-4228-9015-f72046678e0f"  # 需要替换为您的实际数据库 ID
 
 # 配置邮件处理
 [triggers]
